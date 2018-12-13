@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill Rect" />
       <item value="SQL Transient Connection Exception" />
       <item value="assignment" />
       <item value="Judge" />
@@ -50,12 +51,11 @@
       <item value="取消收藏" />
       <item value="uncollect" />
       <item value="favorite" />
-      <item value="收藏点赞" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
