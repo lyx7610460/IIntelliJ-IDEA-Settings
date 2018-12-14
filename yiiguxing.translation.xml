@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="描述备注" />
+      <item value="描述" />
       <item value="fill Rect" />
       <item value="SQL Transient Connection Exception" />
       <item value="assignment" />
@@ -49,8 +51,6 @@
       <item value="自定义" />
       <item value="Deprecated" />
       <item value="取消收藏" />
-      <item value="uncollect" />
-      <item value="favorite" />
     </histories>
     <option name="languageScores">
       <map>
