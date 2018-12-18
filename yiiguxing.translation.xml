@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amount a 2_27_0_" />
       <item value="128" />
       <item value="BOLD" />
       <item value="PLAIN" />
@@ -50,12 +51,11 @@
       <item value="exceptionally" />
       <item value="old" />
       <item value="praise" />
-      <item value="orientation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
