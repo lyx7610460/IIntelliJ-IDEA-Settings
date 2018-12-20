@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="divide" />
       <item value="force commit even on non-dirty sessions because some databases require" />
       <item value="amount a 2_27_0_" />
       <item value="128" />
@@ -50,12 +51,11 @@
       <item value="未登录" />
       <item value="Not Login" />
       <item value="exceptionally" />
-      <item value="old" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
