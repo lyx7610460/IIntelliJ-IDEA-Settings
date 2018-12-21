@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accent" />
       <item value="reduce" />
       <item value="divide" />
       <item value="force commit even on non-dirty sessions because some databases require" />
@@ -50,11 +51,10 @@
       <item value="Returns a new CompletableFuture that is already completed with" />
       <item value="Already" />
       <item value="未登录" />
-      <item value="Not Login" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
+        <entry key="CHINESE" value="51" />
         <entry key="ENGLISH" value="51" />
         <entry key="MALAY" value="1" />
       </map>
