@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="so we don't want to do it unnecessarily" />
+      <item value="Switch to manual commit if necessary. This is very expensive in some JDBC drivers," />
       <item value="IDLE" />
       <item value="accent" />
       <item value="reduce" />
@@ -49,13 +51,11 @@
       <item value="package" />
       <item value="unique" />
       <item value="唯一" />
-      <item value="Returns a new CompletableFuture that is already completed with" />
-      <item value="Already" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
