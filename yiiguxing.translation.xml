@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分页" />
       <item value="industry" />
       <item value="disabling" />
       <item value="accessed" />
@@ -50,12 +51,11 @@
       <item value="monitor" />
       <item value="Long" />
       <item value="incremental" />
-      <item value="身份" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
