@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="raters" />
       <item value="block" />
       <item value="阻碍" />
       <item value="BUREAUCRATS" />
@@ -50,12 +51,11 @@
       <item value="brief" />
       <item value="visible" />
       <item value="可见" />
-      <item value="泛型" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
