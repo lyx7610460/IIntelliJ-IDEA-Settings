@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="export" />
       <item value="commentary" />
       <item value="alternative" />
       <item value="raters" />
@@ -50,11 +51,10 @@
       <item value="关键字" />
       <item value="word" />
       <item value="脚本" />
-      <item value="brief" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="60" />
         <entry key="MALAY" value="1" />
       </map>
