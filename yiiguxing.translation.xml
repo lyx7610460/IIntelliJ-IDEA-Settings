@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="体验店" />
+      <item value="体验" />
       <item value="Proceed" />
       <item value="export" />
       <item value="commentary" />
@@ -49,8 +51,6 @@
       <item value="hided" />
       <item value="hade" />
       <item value="hide" />
-      <item value="关键字" />
-      <item value="word" />
     </histories>
     <option name="languageScores">
       <map>
