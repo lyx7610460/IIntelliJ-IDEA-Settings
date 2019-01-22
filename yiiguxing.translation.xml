@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Experience" />
+      <item value="ExperienceStore" />
       <item value="publish" />
       <item value="pubilsh" />
       <item value="转换器" />
@@ -49,12 +51,10 @@
       <item value="SQL Transient Connection Exception" />
       <item value="assignment" />
       <item value="Judge" />
-      <item value="Enable Scheduling" />
-      <item value="subscription Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="MALAY" value="1" />
       </map>
