@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="published" />
+      <item value="publish" />
+      <item value="发布" />
       <item value="体验店" />
       <item value="体验" />
       <item value="Proceed" />
@@ -48,13 +51,10 @@
       <item value="Cucumber" />
       <item value="latest" />
       <item value="最新的" />
-      <item value="hided" />
-      <item value="hade" />
-      <item value="hide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
+        <entry key="CHINESE" value="61" />
         <entry key="ENGLISH" value="61" />
         <entry key="MALAY" value="1" />
       </map>
