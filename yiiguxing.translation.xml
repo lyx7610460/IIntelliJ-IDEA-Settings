@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="体验" />
+      <item value="Experince" />
       <item value="Hump" />
       <item value="Experience" />
       <item value="ExperienceStore" />
@@ -15,7 +17,6 @@
       <item value="published" />
       <item value="发布" />
       <item value="体验店" />
-      <item value="体验" />
       <item value="Proceed" />
       <item value="export" />
       <item value="commentary" />
@@ -50,12 +51,11 @@
       <item value="描述" />
       <item value="fill Rect" />
       <item value="SQL Transient Connection Exception" />
-      <item value="assignment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
