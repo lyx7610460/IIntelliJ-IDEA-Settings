@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优化" />
       <item value="relax" />
       <item value="Published" />
       <item value="increment" />
@@ -50,12 +51,11 @@
       <item value="A String constant for the canonical family name of the * logical font &quot;Monospaced&quot;. It is useful in Font construction * to provide compile-time verification of the name." />
       <item value="MONOSPACED" />
       <item value="found" />
-      <item value="生成" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
