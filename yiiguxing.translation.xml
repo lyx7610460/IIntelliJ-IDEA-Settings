@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="坐标" />
       <item value="longitude" />
       <item value="latitude" />
-      <item value="坐标" />
       <item value="优化" />
       <item value="relax" />
       <item value="Published" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
