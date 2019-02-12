@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Privilege" />
       <item value="Dimension" />
       <item value="坐标" />
       <item value="longitude" />
@@ -50,12 +51,11 @@
       <item value="force commit even on non-dirty sessions because some databases require" />
       <item value="amount a 2_27_0_" />
       <item value="128" />
-      <item value="BOLD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
