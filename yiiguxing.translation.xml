@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trios" />
       <item value="consignee" />
       <item value="Category" />
       <item value="Privilege" />
@@ -50,12 +51,11 @@
       <item value="accent" />
       <item value="reduce" />
       <item value="divide" />
-      <item value="force commit even on non-dirty sessions because some databases require" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
