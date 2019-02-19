@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accumulator" />
       <item value="fold" />
       <item value="reduce" />
       <item value="Accumulate" />
@@ -50,12 +51,11 @@
       <item value="industry" />
       <item value="disabling" />
       <item value="accessed" />
-      <item value="deregistering" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
