@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refunded" />
       <item value="backup" />
       <item value="repair" />
       <item value="accumulator" />
@@ -50,12 +51,11 @@
       <item value="scholl" />
       <item value="aggregate" />
       <item value="分页" />
-      <item value="industry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
