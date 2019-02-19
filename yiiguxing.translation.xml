@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backup" />
       <item value="repair" />
       <item value="accumulator" />
       <item value="fold" />
@@ -50,12 +51,11 @@
       <item value="aggregate" />
       <item value="分页" />
       <item value="industry" />
-      <item value="disabling" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
