@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="过期" />
+      <item value="国企" />
       <item value="callback" />
       <item value="indentation" />
       <item value="import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.BUYER_PAID import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.CLOSED import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.PAID import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.SELLER_SHIPPED import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.SUCCEEDED import cn.codemao.service.codemaster.trade.constant.YouZanOrderRefundStateEnum import cn.codemao.service.codemaster.trade.constant.YouZanOrderRefundStateEnum.FULLY_REFUNDED import cn.codemao.service.codemaster.trade.constant.YouZanOrderRefundStateEnum.PARTIAL_REFUNDED import cn.codemao.service.codemaster.trade.constant.YouZanRefundEventTypeEnum import cn.codemao.service.codemaster.trade.constant.YouZanRefundEventTypeEnum.REFUND_SUCCEEDED import cn.codemao.service.codemaster.trade.constant.YouZanRefundEventTypeEnum.SELLER_AGREED" />
@@ -49,13 +51,11 @@
       <item value="commentary" />
       <item value="alternative" />
       <item value="raters" />
-      <item value="block" />
-      <item value="阻碍" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="MALAY" value="1" />
       </map>
     </option>
