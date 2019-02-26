@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="social" />
       <item value="malformed" />
       <item value="手动" />
       <item value="mamual" />
@@ -50,12 +51,11 @@
       <item value="重复" />
       <item value="published" />
       <item value="发布" />
-      <item value="体验店" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
       </map>
