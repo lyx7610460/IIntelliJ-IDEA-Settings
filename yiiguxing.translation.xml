@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="malformed" />
       <item value="手动" />
       <item value="mamual" />
       <item value="MILLISECONDS" />
       <item value="expired" />
-      <item value="malformed" />
       <item value="过期" />
       <item value="国企" />
       <item value="callback" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
+        <entry key="CHINESE" value="87" />
         <entry key="ENGLISH" value="87" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
