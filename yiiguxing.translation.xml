@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Priority Queue" />
       <item value="extra" />
       <item value="Ambiguous" />
       <item value="malformed" />
@@ -50,12 +51,11 @@
       <item value="pubilsh" />
       <item value="转换器" />
       <item value="transform" />
-      <item value="转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
       </map>
