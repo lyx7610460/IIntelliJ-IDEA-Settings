@@ -11,8 +11,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.sql</mask>
-    <mask>*.kt</mask>
     <mask>*.java</mask>
   </component>
 </application>

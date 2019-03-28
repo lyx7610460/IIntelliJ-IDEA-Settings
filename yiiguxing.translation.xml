@@ -1,67 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Priority Queue" />
-      <item value="extra" />
-      <item value="Ambiguous" />
-      <item value="malformed" />
-      <item value="algetic" />
-      <item value="invalid" />
-      <item value="separate" />
-      <item value="social" />
-      <item value="手动" />
-      <item value="mamual" />
-      <item value="MILLISECONDS" />
-      <item value="expired" />
-      <item value="过期" />
-      <item value="国企" />
-      <item value="callback" />
-      <item value="indentation" />
-      <item value="import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.BUYER_PAID import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.CLOSED import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.PAID import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.SELLER_SHIPPED import cn.codemao.service.codemaster.trade.constant.YouZanOrderEventEnum.SUCCEEDED import cn.codemao.service.codemaster.trade.constant.YouZanOrderRefundStateEnum import cn.codemao.service.codemaster.trade.constant.YouZanOrderRefundStateEnum.FULLY_REFUNDED import cn.codemao.service.codemaster.trade.constant.YouZanOrderRefundStateEnum.PARTIAL_REFUNDED import cn.codemao.service.codemaster.trade.constant.YouZanRefundEventTypeEnum import cn.codemao.service.codemaster.trade.constant.YouZanRefundEventTypeEnum.REFUND_SUCCEEDED import cn.codemao.service.codemaster.trade.constant.YouZanRefundEventTypeEnum.SELLER_AGREED" />
-      <item value="Wildcard" />
-      <item value="refunded" />
-      <item value="backup" />
-      <item value="repair" />
-      <item value="accumulator" />
-      <item value="fold" />
-      <item value="reduce" />
-      <item value="Accumulate" />
-      <item value="stored" />
-      <item value="inspect" />
-      <item value="internal" />
-      <item value="Trios" />
-      <item value="consignee" />
-      <item value="Category" />
-      <item value="Privilege" />
-      <item value="Dimension" />
-      <item value="坐标" />
-      <item value="longitude" />
-      <item value="latitude" />
-      <item value="优化" />
-      <item value="relax" />
-      <item value="Published" />
-      <item value="increment" />
-      <item value="incrmemnt" />
-      <item value="体验" />
-      <item value="Experince" />
-      <item value="Hump" />
-      <item value="Experience" />
-      <item value="ExperienceStore" />
-      <item value="publish" />
-      <item value="pubilsh" />
-      <item value="转换器" />
-      <item value="transform" />
+      <item value="seed" />
+      <item value="actuator" />
+      <item value="广告" />
+      <item value="restrict" />
+      <item value="Fetching" />
+      <item value="Epoch" />
+      <item value="Inventory" />
+      <item value="adapter" />
+      <item value="tail" />
+      <item value="already processed" />
+      <item value="* The main disadvantage of per-bin locks is that other update * operations on other nodes in a bin list protected by the same * lock can stall, for example when user equals() or mapping * functions take a long time. However, statistically, under * random hash codes, this is not a common problem. Ideally, the * frequency of nodes in bins follows a Poisson distribution * (http://en.wikipedia.org/wiki/Poisson_distribution) with a * parameter of about 0.5 on average, given the resizing threshold * of 0.75, although with a large variance because of resizing * granularity. Ignoring variance, the expected occurrences of * list size k are (exp(-0.5) * pow(0.5, k) / factorial(k)). The * first values are:" />
+      <item value="* This map usually acts as a binned (bucketed) hash table. Each * key-value mapping is held in a Node. Most nodes are instances * of the basic Node class with hash, key, value, and next * fields. However, various subclasses exist: TreeNodes are * arranged in balanced trees, not lists. TreeBins hold the roots * of sets of TreeNodes. ForwardingNodes are placed at the heads * of bins during resizing. ReservationNodes are used as * placeholders while establishing values in computeIfAbsent and * related methods. The types TreeBin, ForwardingNode, and * ReservationNode do not hold normal user keys, values, or * hashes, and are readily distinguishable during search etc * because they have negative hash fields and null key and value * fields. (These special nodes are either uncommon or transient, * so the impact of carrying around some unused fields is * insignificant.)" />
+      <item value="The primary design goal of this hash table is to maintain * concurrent readability (typically method get(), but also * iterators and related methods) while minimizing update * contention. Secondary goals are to keep space consumption about * the same or better than java.util.HashMap, and to support high * initial insertion rates on an empty table by many threads. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
-        <entry key="ROMANIAN" value="1" />
-        <entry key="MALAY" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
