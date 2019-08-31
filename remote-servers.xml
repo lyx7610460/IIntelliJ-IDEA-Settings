@@ -2,7 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="apiUrl" value="tcp://193.112.143.99:2375" />
       </configuration>
     </remote-server>
   </component>
