@@ -94,6 +94,10 @@
           <option name="url" value="http://luoyangxian@stash.pagoda.com.cn/scm/erp2_backend/erp_intfc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://luoyangxian@stash.pagoda.com.cn/scm/erp2_backend/erp_rocketmq_base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\" />
