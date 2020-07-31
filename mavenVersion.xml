@@ -1,3 +1,0 @@
-<application>
-  <component name="MavenVersion" vmOptions="-Xms1024m  -Xmx2048m" embedderJdk="#JAVA_HOME" mavenHome="D:\apache-maven-3.5.2" />
-</application>
