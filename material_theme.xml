@@ -3,6 +3,7 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
@@ -14,6 +15,6 @@
     <option name="accentColor" value="2979ff" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-8302c4c:167a1ca87e7:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.5.0.1" />
   </component>
 </application>
